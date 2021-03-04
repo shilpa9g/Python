@@ -1,2 +1,3 @@
 # Python
-This repository documents my journey in learning python programming language.
+This repository documents my journey in learning python programming language so far.
+
